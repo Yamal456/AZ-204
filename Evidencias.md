@@ -62,45 +62,45 @@ http://imgapijas.azurewebsites.net/
 
 
 
-![image-20210607095319112](/Mod02/ZZ-lab/Media/MOD2-00.png)
+![image-20210607095319112](/Mod02/Media/MOD2-00.png)
 
 DefaultEndpointsProtocol=https;AccountName=funcstorjas;AccountKey=+e4MUAsF0HvJ7+gMI9kZxRZBM/YqAhVGjBb2n5o8eavh/W5UlBG2MHI6GkpDmcoY1HVCMXd8xLcFgkweIJ89jA==;EndpointSuffix=core.windows.net
 
 
 
-![image-20210607100436805](/Mod02/ZZ-lab/Media/MOD2-01.png)
+![image-20210607100436805](/Mod02/Media/MOD2-01.png)
 
-![image-20210607102218183](/Mod02/ZZ-lab/Media/MOD2-02.png)
+![image-20210607102218183](/Mod02/Media/MOD2-02.png)
 
-![image-20210607102414688](/Mod02/ZZ-lab/Media/MOD2-03.png)
+![image-20210607102414688](/Mod02/Media/MOD2-03.png)
 
-![image-20210607102805838](/Mod02/ZZ-lab/Media/MOD2-04.png)
+![image-20210607102805838](/Mod02/Media/MOD2-04.png)
 
-![image-20210607102912459](/Mod02/ZZ-lab/Media/MOD2-05.png)
+![image-20210607102912459](/Mod02/Media/MOD2-05.png)
 
-![image-20210607103025375](/Mod02/ZZ-lab/Media/MOD2-06.png)
+![image-20210607103025375](/Mod02/Media/MOD2-06.png)
 
-![image-20210607103209019](/Mod02/ZZ-lab/Media/MOD2-07.png)
+![image-20210607103209019](/Mod02/Media/MOD2-07.png)
 
-![image-20210607104849153](/Mod02/ZZ-lab/Media/MOD2-09.png)
+![image-20210607104849153](/Mod02/Media/MOD2-09.png)
 
-![image-20210607105019310](/Mod02/ZZ-lab/Media/MOD2-10.png)
+![image-20210607105019310](/Mod02/Media/MOD2-10.png)
 
-![image-20210607105243508](/Mod02/ZZ-lab/Media/MOD2-11.png)
+![image-20210607105243508](/Mod02/Media/MOD2-11.png)
 
-![image-20210607105312853](/Mod02/ZZ-lab/Media/MOD2-12.png)
+![image-20210607105312853](/Mod02/Media/MOD2-12.png)
 
-![image-20210607105355301](/Mod02/ZZ-lab/Media/MOD2-13.png)
+![image-20210607105355301](/Mod02/Media/MOD2-13.png)
 
-![image-20210607105541182](/Mod02/ZZ-lab/Media/MOD2-14.png)
+![image-20210607105541182](/Mod02/Media/MOD2-14.png)
 
-![image-20210607123423303](/Mod02/ZZ-lab/Media/MOD2-15.png)
+![image-20210607123423303](/Mod02/Media/MOD2-15.png)
 
-![image-20210607123531552](/Mod02/ZZ-lab/Media/MOD2-16.png)
+![image-20210607123531552](/Mod02/Media/MOD2-16.png)
 
-![image-20210607123709561](/Mod02/ZZ-lab/Media/MOD2-17.png)
+![image-20210607123709561](/Mod02/Media/MOD2-17.png)
 
-![image-20210607124333028](/Mod02/ZZ-lab/Media/MOD2-18.png)
+![image-20210607124333028](/Mod02/Media/MOD2-18.png)
 
 
 
@@ -108,7 +108,7 @@ DefaultEndpointsProtocol=https;AccountName=funcstorjas;AccountKey=+e4MUAsF0HvJ7+
 
 #  Module 03: Develop solutions that use blob storage
 
-![image-20210608112820486](/Mod03/ZZ-lab/Media/MOD3-00.png)
+![image-20210608112820486](/Mod03/Media/MOD3-00.png)
 
 https://mediastorjas.blob.core.windows.net/
 
@@ -116,143 +116,143 @@ DefaultEndpointsProtocol=https;AccountName=mediastorjas;AccountKey=Kd+q7Ctus3VYf
 
 Kd+q7Ctus3VYf5VEXjtNfCMzi+1Kf7FR0brEN6UbkU/zKebCKDBzQuDbGEJNXd7tOjCMcBT/4cbmdxTgPnrz5w==
 
-![image-20210608113553151](/Mod03/ZZ-lab/Media/MOD3-01.png)
+![image-20210608113553151](/Mod03/Media/MOD3-01.png)
 
-![image-20210608113726740](/Mod03/ZZ-lab/Media/MOD3-02.png![image-20210608113900703](/Mod03/ZZ-lab/Media/MOD3-02.png)
+![image-20210608113726740](/Mod03/Media/MOD3-02.png![image-20210608113900703](/Mod03/Media/MOD3-02.png)
 
-![image-20210608114055363](/Mod03/ZZ-lab/Media/MOD3-03.png)
+![image-20210608114055363](/Mod03/Media/MOD3-03.png)
 
-![image-20210608114246813](/Mod03/ZZ-lab/Media/MOD3-04.png)
+![image-20210608114246813](/Mod03/Media/MOD3-04.png)
 
-![image-20210608114407073](/Mod03/ZZ-lab/Media/MOD3-05.png)
+![image-20210608114407073](/Mod03/Media/MOD3-05.png)
 
-![image-20210608114511427](/Mod03/ZZ-lab/Media/MOD3-06.png)
+![image-20210608114511427](/Mod03/Media/MOD3-06.png)
 
-![image-20210608114634517](/Mod03/ZZ-lab/Media/MOD3-07.png)
+![image-20210608114634517](/Mod03/Media/MOD3-07.png)
 
-![image-20210608114757535](/Mod03/ZZ-lab/Media/MOD3-08.png)
+![image-20210608114757535](/Mod03/Media/MOD3-08.png)
 
-![image-20210608115804813](/Mod03/ZZ-lab/Media/MOD3-09.png)
+![image-20210608115804813](/Mod03/Media/MOD3-09.png)
 
-![image-20210608120300412](/Mod03/ZZ-lab/Media/MOD3-10.png)
+![image-20210608120300412](/Mod03/Media/MOD3-10.png)
 
-![image-20210608121020644](/Mod03/ZZ-lab/Media/MOD3-11.png)
-
-
-
-![image-20210608124601563](/Mod03/ZZ-lab/Media/MOD3-12.png)
-
-![image-20210608124838433](/Mod03/ZZ-lab/Media/MOD3-13.png)
-
-![image-20210608125821160](/Mod03/ZZ-lab/Media/MOD3-14.png)
-
-![image-20210608125843645](/Mod03/ZZ-lab/Media/MOD3-15.png)
-
-![image-20210608125926425](/Mod03/ZZ-lab/Media/MOD3-16.png)
-
-![image-20210608130515695](/Mod03/ZZ-lab/Media/MOD3-17+.png)
-
-![image-20210608130618420](/Mod03/ZZ-lab/Media/MOD3-18.png)
-
-![image-20210608130708337](/Mod03/ZZ-lab/Media/MOD3-19.png)
-
-![image-20210608130838097](/Mod03/ZZ-lab/Media/MOD3-20.png)
-
-![image-20210608130954758](/Mod03/ZZ-lab/Media/MOD3-21.png)
-
-![image-20210608131137431](/Mod03/ZZ-lab/Media/MOD3-22.png)
-
-![image-20210608131212925](/Mod03/ZZ-lab/Media/MOD3-23.png)
-
-![image-20210608131534410](/Mod03/ZZ-lab/Media/MOD3-24.png)
+![image-20210608121020644](/Mod03/Media/MOD3-11.png)
 
 
 
-![image-20210608131735150](/Mod03/ZZ-lab/Media/MOD3-25.png)
+![image-20210608124601563](/Mod03/Media/MOD3-12.png)
 
-![image-20210608131853754](/Mod03/ZZ-lab/Media/MOD3-26.png)
+![image-20210608124838433](/Mod03/Media/MOD3-13.png)
+
+![image-20210608125821160](/Mod03/Media/MOD3-14.png)
+
+![image-20210608125843645](/Mod03/Media/MOD3-15.png)
+
+![image-20210608125926425](/Mod03/Media/MOD3-16.png)
+
+![image-20210608130515695](/Mod03/Media/MOD3-17+.png)
+
+![image-20210608130618420](/Mod03/Media/MOD3-18.png)
+
+![image-20210608130708337](/Mod03/Media/MOD3-19.png)
+
+![image-20210608130838097](/Mod03/Media/MOD3-20.png)
+
+![image-20210608130954758](/Mod03/Media/MOD3-21.png)
+
+![image-20210608131137431](/Mod03/Media/MOD3-22.png)
+
+![image-20210608131212925](/Mod03/Media/MOD3-23.png)
+
+![image-20210608131534410](/Mod03/Media/MOD3-24.png)
+
+
+
+![image-20210608131735150](/Mod03/Media/MOD3-25.png)
+
+![image-20210608131853754](/Mod03/Media/MOD3-26.png)
 
 # Module 04: Develop solutions that use Cosmos DB storage
 
 
 
-![image-20210609102245413](/Mod04/ZZ-lab/Media/MOD4-00.png)
+![image-20210609102245413](/Mod04/Media/MOD4-00.png)
 
-![image-20210609103416058](/Mod04/ZZ-lab/Media/MOD4-01.png)
+![image-20210609103416058](/Mod04/Media/MOD4-01.png)
 
 AccountEndpoint=https://polycosmosjas.documents.azure.com:443/;AccountKey=3U4ttRCZvHzPBSbGLJYsvFE78ktHaGs0tDs1MbDCeJ31GyS3i8pkrBNLeYYn7WZsYbMvecS7HXdUULjk4gEzeA==;
 
 
 
-![image-20210609103638010](/Mod04/ZZ-lab/Media/MOD4-02.png)
+![image-20210609103638010](/Mod04/Media/MOD4-02.png)
 
-![image-20210609103833220](/Mod04/ZZ-lab/Media/MOD4-03.png)
+![image-20210609103833220](/Mod04/Media/MOD4-03.png)
 
 https://polystorjas.blob.core.windows.net/images
 
-![image-20210609105324750](/Mod04/ZZ-lab/Media/MOD4-04.png)
+![image-20210609105324750](/Mod04/Media/MOD4-04.png)
 
 
 
-![image-20210609105426126](/Mod04/ZZ-lab/Media/MOD4-05.png)
+![image-20210609105426126](/Mod04/Media/MOD4-05.png)
 
-![image-20210609105535320](/Mod04/ZZ-lab/Media/MOD4-06.png)
+![image-20210609105535320](/Mod04/Media/MOD4-06.png)
 
-![image-20210609105832748](/Mod04/ZZ-lab/Media/MOD4-07.png)
+![image-20210609105832748](/Mod04/Media/MOD4-07.png)
 
-![image-20210609112213677](/Mod04/ZZ-lab/Media/MOD4-08.png)
+![image-20210609112213677](/Mod04/Media/MOD4-08.png)
 
-![image-20210609112141315](/Mod04/ZZ-lab/Media/MOD4-09.png)
+![image-20210609112141315](/Mod04/Media/MOD4-09.png)
 
 ```
 Server=tcp:polysqlsrvrjas.database.windows.net,1433;Initial Catalog=AdventureWorks;Persist Security Info=False;User ID=testuser;Password=TestPa55w.rd;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;
 ```
 
-![image-20210609112556224](/Mod04/ZZ-lab/Media/MOD4-10.png)
+![image-20210609112556224](/Mod04/Media/MOD4-10.png)
 
-![image-20210609112701782](/Mod04/ZZ-lab/Media/MOD4-11.png)
+![image-20210609112701782](/Mod04/Media/MOD4-11.png)
 
-![image-20210609112737455](/Mod04/ZZ-lab/Media/MOD4-12.png)
+![image-20210609112737455](/Mod04/Media/MOD4-12.png)
 
-![image-20210609113500765](/Mod04/ZZ-lab/Media/MOD4-13.png)
+![image-20210609113500765](/Mod04/Media/MOD4-13.png)
 
-![image-20210609113736445](/Mod04/ZZ-lab/Media/MOD4-14.png)
+![image-20210609113736445](/Mod04/Media/MOD4-14.png)
 
-![image-20210609120211195](/Mod04/ZZ-lab/Media/MOD4-15.png)
+![image-20210609120211195](/Mod04/Media/MOD4-15.png)
 
-![image-20210609120414238](/Mod04/ZZ-lab/Media/MOD4-16.png)
+![image-20210609120414238](/Mod04/Media/MOD4-16.png)
 
-![image-20210609120821066](/Mod04/ZZ-lab/Media/MOD4-17.png)
+![image-20210609120821066](/Mod04/Media/MOD4-17.png)
 
 
 
-![image-20210609120942259](/Mod04/ZZ-lab/Media/MOD4-18.png)
+![image-20210609120942259](/Mod04/Media/MOD4-18.png)
 
-![image-20210609121033988](/Mod04/ZZ-lab/Media/MOD4-19.png)
+![image-20210609121033988](/Mod04/Media/MOD4-19.png)
 
-![image-20210609121119450](/Mod04/ZZ-lab/Media/MOD4-20.png)
+![image-20210609121119450](/Mod04/Media/MOD4-20.png)
 
-![image-20210609121156879](/Mod04/ZZ-lab/Media/MOD4-21.png)
+![image-20210609121156879](/Mod04/Media/MOD4-21.png)
 
-![image-20210609121235230](/Mod04/ZZ-lab/Media/MOD4-22.png)
+![image-20210609121235230](/Mod04/Media/MOD4-22.png)
 
-![image-20210609121838682](/Mod04/ZZ-lab/Media/MOD4-23.png)
+![image-20210609121838682](/Mod04/Media/MOD4-23.png)
 
-![image-20210609121925640](/Mod04/ZZ-lab/Media/MOD4-24.png)
+![image-20210609121925640](/Mod04/Media/MOD4-24.png)
 
-![image-20210611131713942](/Mod04/ZZ-lab/Media/MOD4-25.png)
+![image-20210611131713942](/Mod04/Media/MOD4-25.png)
 
-![image-20210611132000309](/Mod04/ZZ-lab/Media/MOD4-26.png)
+![image-20210611132000309](/Mod04/Media/MOD4-26.png)
 
-![image-20210611133413736](/Mod04/ZZ-lab/Media/MOD4-27.png)
+![image-20210611133413736](/Mod04/Media/MOD4-27.png)
 
-![image-20210611133525362](/Mod04/ZZ-lab/Media/MOD4-28.png)
+![image-20210611133525362](/Mod04/Media/MOD4-28.png)
 
-![image-20210611133559434](/Mod04/ZZ-lab/Media/MOD4-29.png)
+![image-20210611133559434](/Mod04/Media/MOD4-29.png)
 
-![image-20210611133641185](/Mod04/ZZ-lab/Media/MOD4-30.png)
+![image-20210611133641185](/Mod04/Media/MOD4-30.png)
 
-![image-20210611133717444](/Mod04/ZZ-lab/Media/MOD4-31.png)
+![image-20210611133717444](/Mod04/Media/MOD4-31.png)
 
 
 
